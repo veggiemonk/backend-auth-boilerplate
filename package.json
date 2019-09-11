@@ -24,7 +24,7 @@
       "SECRET": "thisIs4dev!Yo"
     }
   },
-  "author": "Julien Bisconti <julien.bisconti@gmail.com>",
+  "author": "Julien Bisconti <julien.bisconti@hotmail.com>",
   "license": "MIT",
   "dependencies": {
     "@std/esm": "^0.22.0",
